@@ -1,2 +1,3 @@
 # first.step
-30/4/20: học Basic HTML & HTML5
+30/4/20: học Basic HTML
+1/5/20: học HTML 
