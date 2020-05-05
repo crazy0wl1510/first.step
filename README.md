@@ -4,3 +4,4 @@
 2/5/20: học HTML
 3/5/20: luyện tập html
 4/5/20: luyện tập html
+5/5/20: học Basic CSS
