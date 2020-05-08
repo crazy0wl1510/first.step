@@ -6,4 +6,5 @@
 4/5/20: luyện tập html
 5/5/20: học Basic CSS
 6/5/20: học CSS
-7/5/20: ho5c CSS
+7/5/20: học CSS
+8/5/20: học CSS
