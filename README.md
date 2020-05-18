@@ -17,3 +17,4 @@
 15/5/20: học CSS flexbox
 16/5/20: học CSS 
 17/5/20: học CSS
+18/5/20: làm challenges CSS
