@@ -19,3 +19,4 @@
 17/5/20: học CSS
 18/5/20: làm challenges CSS
 19/5/20: làm challenges CSS
+20/5/20: học javascript
