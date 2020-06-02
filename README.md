@@ -32,3 +32,4 @@
 30/5/20: học javascript
 31/5/20: học javascript
 1/6/20: học javascript
+2/6/20: học toán huhu
