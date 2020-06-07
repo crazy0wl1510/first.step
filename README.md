@@ -37,3 +37,4 @@
 4/6/20: học javascript
 5/6/20: học javascript
 6/6/20: học javascript + làm toán căn bản
+7/6/20: học javascript
