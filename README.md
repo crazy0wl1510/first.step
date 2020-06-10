@@ -34,9 +34,10 @@
 1/6/20: học javascript
 2/6/20: học toán
 3
-4/6/20: học javascript
+4/6/20: học javascript (es6)
 5/6/20: học javascript
-6/6/20: học javascript + làm toán căn bản
+6/6/20: học javascript
 7/6/20: học javascript
 8/6/20: học javascript
 9/6/20: học javascript
+10/6/20: học javascript (regular expressions)
