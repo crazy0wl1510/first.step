@@ -43,3 +43,4 @@
 10/6/20: học javascript (regular expressions)
 11/6/20: học javascript
 12/6/20: học javascript
+13/6/20: học javascript
