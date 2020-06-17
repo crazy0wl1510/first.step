@@ -46,4 +46,5 @@
 13/6/20: học javascript (debugging)
 14
 15/6/20: học javascript (basic data structures)
-16/6/20: học javascript
+16/6/20: học javascript (basic algorithm scripting)
+17/6/20: học javascript 
