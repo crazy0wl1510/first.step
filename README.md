@@ -49,3 +49,4 @@
 16/6/20: học javascript (basic algorithm scripting)
 17/6/20: học javascript 
 18/6/20: học javascript
+19/6/20: học javascript
