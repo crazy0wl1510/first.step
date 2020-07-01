@@ -61,3 +61,4 @@
 28/6/20: học javascript
 29/6/20: học javascript
 30/6/20: học javascript
+1/7/20: học javascript
