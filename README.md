@@ -68,3 +68,4 @@
 5:
 6/7/20: học javascript
 7/7/20: học javascript
+8+9+10+11+12: chuyển nhà, không có mạng
